@@ -1,2 +1,42 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Website about Me</title>
+		<style>
+		h3 {
+		color: rgb(67, 174, 255)
+		}
+		body{
+		font-family: serif;
+		}
+		</style>
+    </head>
+    <body>
+
+        <h1>Áine Cleary</h1>
+        
+       <ul>
+	   <li>Age: 22</li>
+	   <li>From: Kildare</li>
+	   <li>Sign: Gemini</li>
+	   </ul>
+        <h3>Early Life</h3>
+		<p>I was born in the year <strong>1998</strong>. When 
+		it was time for me to go to primary school
+		I went to the <em>Gael Scoil</em> in Newbrigde. Once 
+		I finished primary I went <em>Gael-Choláiste Chill 
+		Dara</em> for secondary school. I finished school
+		in 2017 after I finished my leaving cert.
+		I had quite a few pets growing up, though 
+		they were mostly cats. I participated in 
+		multiple extra cericular activities like
+		horse riding, irish dancing and even Taekwondo.</p>
+		
+		<h3>Now</h3>
+		<p>At the moment I'm currently attending <strong>IT 
+		Carlow</strong> in the Games Development course.
+		Things are going pretty well. </p>
+		
+    </body>
+</html>
