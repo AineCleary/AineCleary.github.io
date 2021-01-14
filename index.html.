@@ -9,6 +9,20 @@
 		}
 		body{
 		font-family: serif;
+		border-style: groove;
+		border-width: 10px;
+		border-color: rgb(115, 181, 255);
+		border-radius: 20px;
+		padding: auto;
+		}
+		h1 {
+		margin-left: 20px;
+		}
+		.list {
+		margin-left: 5px;
+		}
+		.info {
+		margin-left: 20px;
 		}
 		</style>
     </head>
